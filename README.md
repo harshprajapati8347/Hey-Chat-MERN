@@ -1,10 +1,10 @@
 # Full Stack Chat App
 
-#### <a target="_blank" href="https://hey-chat-harsh.herokuapp.com/">HeyChat App Live : https://hey-chat-harsh.herokuapp.com/</a>
+#### <a target="_blank" href="https://hey-chat-harsh.herokuapp.com/">Super-Chat App Live : https://super-chat-harsh.herokuapp.com/</a>
 
-
-HeyChat is a Full Stack Chatting App.
+Super-Chat is a Full Stack Chatting App.
 Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
+
 ## Tech Stack
 
 **Client:** React JS
@@ -12,7 +12,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 **Server:** Node JS, Express JS
 
 **Database:** Mongo DB
-  
+
 ## Demo
 
 ## Run Locally
@@ -20,7 +20,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 Clone the project
 
 ```bash
-  git clone 
+  git clone
 ```
 
 Install dependencies
@@ -39,6 +39,7 @@ Start the server
 ```bash
   npm run start
 ```
+
 Start the Client
 
 ```bash
@@ -46,4 +47,4 @@ Start the Client
   cd frontend
   npm start
 ```
-  
+
