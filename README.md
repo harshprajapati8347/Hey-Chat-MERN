@@ -1,6 +1,6 @@
 # Full Stack Chat App
 
-#### <a target="_blank" href="https://hey-chat-harsh.herokuapp.com/">Super-Chat App Live : https://super-chat-harsh.herokuapp.com/</a>
+#### <a target="_blank" href="https://super-chat-harsh.herokuapp.com/">Super-Chat App Live : https://super-chat-harsh.herokuapp.com/</a>
 
 Super-Chat is a Full Stack Chatting App.
 Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
