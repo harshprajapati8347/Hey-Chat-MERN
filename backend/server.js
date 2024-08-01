@@ -49,8 +49,12 @@ const server = app.listen(
 const io = require("socket.io")(server, {
   pingTimeout: 60000,
   cors: {
-    origin: "http://localhost:3000",
-    // credentials: true,
+    origin: [
+      "http://localhost:3000",
+      "https://super-chat-harsh.vercel.app",
+      process.env.FRONTEND_URL,
+    ],
+    credentials: true,
   },
 });
 
